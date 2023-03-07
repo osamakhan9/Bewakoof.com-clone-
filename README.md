@@ -5,7 +5,7 @@
 <br/>
 🎯 Individual Project
 <hr>
-Bewakoof.com Clone is React, HTML/CSS, Chakra-UI, E-commerce web application that allows you to buy shoes & clothes online with payment gateway integration. It has a variety of categories, just visit the product listing page and you will see all the products, apply filters as per your need and in just a few clicks you can buy any products from the website. This project is just for educational purpose.
+Bewakoof.com Clone is React, HTML/CSS, Chakra-UI, E-commerce web application commerce website where a user can find different accessories for men and women. It is a Full-stack web application for buying clothes and accessories and payment page or login signup/logout page.
 <br/>
 <br/>
 while helping make your Shopping experience memorable with innovative apps, competitive prices and 24/7 customer service. Order Now !
