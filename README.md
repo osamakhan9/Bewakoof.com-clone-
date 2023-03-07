@@ -43,15 +43,17 @@ while helping make your Shopping experience memorable with innovative apps, comp
 
 ## Landing Page
 
- <img src="landing.png" alt="Landing Page" />
+![image](https://user-images.githubusercontent.com/101393695/223527701-e54fb758-37cd-4a6b-bac5-2b0d73139f60.png)
+
 
 ## Product Page
 
- <img src="product.png" alt="product Page" />
+![image](https://user-images.githubusercontent.com/101393695/223527998-a3a00257-8d31-45fe-a1ed-c831833078b2.png)
+
 
 ## checkout Page
 
- <img src="checkout.png" alt="checkout Page" />
+![image](https://user-images.githubusercontent.com/101393695/223528234-08bf8ca5-1991-42db-a4f7-673e7f9f8aec.png)
 
 ## login Page
 
