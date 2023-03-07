@@ -27,7 +27,7 @@ while helping make your Shopping experience memorable with innovative apps, comp
 <img src="https://images.bewakoof.com/uploads/grid/app/Desktop-Strip-6-1669217199.jpg" alt="Bewakoof" />
 <img src="https://images.bewakoof.com/uploads/grid/app/desktop-survey-1673330211.jpg" alt="Bewakoof" />
 🎯## Important Links 🔗 
-<a href="https://prized-ring-1889.netlify.app/">Deployed Link</a>
+<a href="https://legendary-moonbeam-59c991.netlify.app/">Deployed Link</a>
 <br>
 
 🎯 Features
@@ -52,9 +52,10 @@ while helping make your Shopping experience memorable with innovative apps, comp
 
 
 ## checkout Page
+![image](https://user-images.githubusercontent.com/101393695/223528978-acb22dab-7c0c-4077-a961-cedf75065467.png)
 
-![image](https://user-images.githubusercontent.com/101393695/223528234-08bf8ca5-1991-42db-a4f7-673e7f9f8aec.png)
+
 
 ## login Page
 
- <img src="./image/login.png" alt="login Page" />
+![image](https://user-images.githubusercontent.com/101393695/223528234-08bf8ca5-1991-42db-a4f7-673e7f9f8aec.png)
